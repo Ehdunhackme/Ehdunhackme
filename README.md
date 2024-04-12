@@ -1,6 +1,6 @@
 # About-me
 
-<h1 align="center">Hi 👋, I'm Dun Li Chan from Penang, Malaysia</h1>
+<h1 align="center">Hellllo 👋, I'm Dun Li Chan from Penang, Malaysia</h1>
 
 ![image](https://github.com/Ehdunhackme/Ehdunhackme/assets/75579286/13362fc3-e51e-4627-b2a8-60d991f2da67)
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **how to synthesize large datasets for Deep learning model process**
 
-- ⚡ Fun fact **I drink miso noodles with straw**
+- ⚡ Fun fact **I drink miso noodles with paper straw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

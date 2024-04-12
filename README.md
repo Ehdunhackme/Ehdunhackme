@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **how to synthesize and optimize large datasets for training Deep learning models**
 
-- ⚡ Fun fact **I "drink" miso noodles with paper straw**
+- ⚡ Fun fact **I "drink" miso noodles with paper straw** :))
 
 <p align="left">
 </p>

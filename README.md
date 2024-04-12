@@ -2,13 +2,11 @@
 
 <h1 align="center">Hellllo 👋, I'm Dun Li Chan from Penang, Malaysia</h1>
 
-![image](https://github.com/Ehdunhackme/Ehdunhackme/assets/75579286/13362fc3-e51e-4627-b2a8-60d991f2da67)
-
 <h3 align="center">A high school student researcher who is interested in Deep Learning/Astrophysics/Competitive Programming(just started one month ago lol)</h3>
 
 - 🔭 I’m currently working on **a Deep Learning-Astrophysics based project**
 
-- 🌱 I’m currently learning **how to synthesize large datasets for Deep learning model process**
+- 🌱 I’m currently learning **how to synthesize large datasets for the AI model training process**
 
 - ⚡ Fun fact **I drink miso noodles with paper straw**
 

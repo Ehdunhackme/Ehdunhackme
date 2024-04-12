@@ -4,9 +4,9 @@
 
 <h3 align="center">A high school student researcher who is interested in Deep Learning/Astrophysics/Competitive Programming(just started one month ago lol)</h3>
 
-- 🔭 I’m currently working on **a Deep Learning-Astrophysics based project**
+- 🔭 I’m currently working on **a Deep Learning-Astrophysics project (already planned and starts in 2025)** and **a Convolutional Neural Network model on detecting microbes in water from microscopic image** for an international symposium this year July 
 
-- 🌱 I’m currently learning **how to synthesize and optimize large datasets for training Deep learning model**
+- 🌱 I’m currently learning **how to synthesize and optimize large datasets for training Deep learning models**
 
 - ⚡ Fun fact **I drink miso noodles with paper straw**
 

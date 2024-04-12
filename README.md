@@ -1,6 +1,6 @@
 <h1 align="center"># About-me
 
-<h1 align="center">Hellllo ![](https://github.com/cycool29/cycool29/raw/main/wave_hand.gif), I'm Dun Li Chan from Penang, Malaysia</h1>
+<h1 align="center">Hellllo ![image](https://github.com/Ehdunhackme/Ehdunhackme/assets/75579286/6fe95ac9-2c39-43aa-b445-7ce82bff798a), I'm Dun Li Chan from Penang, Malaysia</h1>
 
 <h3 align="center">A high school student researcher who is interested in Deep Learning/Astrophysics/Competitive Programming(just started one month ago lol)</h3>
 

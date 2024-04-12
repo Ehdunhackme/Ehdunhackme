@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a Deep Learning-Astrophysics based project**
 
-- 🌱 I’m currently learning **how to synthesize large datasets for the AI model training process**
+- 🌱 I’m currently learning **how to synthesize and optimize large datasets for training Deep learning model**
 
 - ⚡ Fun fact **I drink miso noodles with paper straw**
 

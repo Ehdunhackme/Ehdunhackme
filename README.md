@@ -1,13 +1,13 @@
 # About-me
 
 <h1 align="center">Hi 👋, I'm Dun Li Chan</h1>
-<h3 align="center">A high school student researcher who is interested on Deep Learning/Astrophysics/Competitive Programming(just started one month ago lol)</h3>
+<h3 align="center">A high school student researcher who is interested in Deep Learning/Astrophysics/Competitive Programming(just started one month ago lol)</h3>
 
 - 🔭 I’m currently working on **a Deep Learning-Astrophysics based project**
 
-- 🌱 I’m currently learning **how to synthesize large dataset for Deep learning model process**
+- 🌱 I’m currently learning **how to synthesize large datasets for Deep learning model training process**
 
-- ⚡ Fun fact **I drink miso noodle with straw**
+- ⚡ Fun fact **I drink miso noodles with straw **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

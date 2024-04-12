@@ -1,6 +1,6 @@
 <h1 align="center"># About-me
 
-<h1 align="center">Hellllo ![image](https://github.com/Ehdunhackme/Ehdunhackme/assets/75579286/68b3219e-5db3-496d-8209-d9f5de64c5fa), I'm Dun Li Chan from Penang, Malaysia</h1>
+<h1 align="center">Hellooo 👋, I'm Dun Li Chan from Penang, Malaysia</h1>
 
 <h3 align="center">A high school student researcher who is interested in Deep Learning/Astrophysics/Competitive Programming(just started one month ago lol)</h3>
 

@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **how to synthesize and optimize large datasets for training Deep learning models**
 
+- 🏫 I’m currently studying in **Chung Ling High School**
+
 - ⚡ Fun fact **I "drink" ramen noodles with paper straw** :))
 
 <p align="left">

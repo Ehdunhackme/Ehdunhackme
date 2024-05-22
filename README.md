@@ -2,10 +2,7 @@
 
 <h1 align="center">Hellooo 👋, I'm Dun Li Chan from Penang, Malaysia</h1>
 
-<h3 align="center">A high school student researcher who is interested in Deep Learning/Astrophysics/Competitive Programming(just started one month ago lol)</h3>
-
-- 🔭 I’m currently working on **a Deep Learning-Astrophysics project (already planned and starts in 2025)** and **EcoliScan for detecting E. coli bacteria in water from microscopic image of water samples** for an international symposium in July 2024 and also
-**RankSys for Chung Ling High School annual cross-country event participants data collection**.
+<h3 align="center">A high school student researcher who is interested in Deep Learning/Astrophysics/Competitive Programming</h3>
 
 - 🌱 I’m currently learning **how to synthesize and optimize large datasets for training Deep learning models**
 

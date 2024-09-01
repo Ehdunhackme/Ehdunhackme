@@ -1,4 +1,4 @@
-<h1 align="center">About-me
+<h1 align="center">About me
 
 <h1 align="center">Hellooo 👋, I'm Dun Li Chan from Penang, Malaysia</h1>
 

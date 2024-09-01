@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I "drink" ramen noodles with paper straw :))**
 
-- 📫 How to reach me: **dunlinmy88@gmail.com**
+- 📫 How to reach out to me: **dunlinmy88@gmail.com**
   
 <p align="left">
 </p>

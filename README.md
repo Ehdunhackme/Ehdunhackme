@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I "drink" ramen noodles with paper straw** :))
 
-<p align="left">
+<p align="center">
 </p>
 
 

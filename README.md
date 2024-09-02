@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chan Dun Li</h1>
-<h3 align="center">A high school student who is interested in Deep Learning/ Astrophysics / Physics Simulation / Competitive Programming </h3>
+- 🌠 A high school student who is interested in Deep Learning/ Astrophysics / Physics Simulation / Competitive Programming 
 
 - 📍 Based in **Georgetown, Penang, Malaysia**
 

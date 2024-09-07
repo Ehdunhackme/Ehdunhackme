@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chan Dun Li</h1>
+<h1 align="center">Hi 👋, I'm Dun Li</h1>
 
 - 🌠 A **high school student** who is interested in **Deep Learning/ Astrophysics / Physics Simulation / Competitive Programming**
 

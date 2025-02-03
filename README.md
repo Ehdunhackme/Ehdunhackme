@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dun Li</h1>
 
--  A **high school student** who is interested in **deep learning/ astronomy and astrophysics**
-
--  Based in **Georgetown, Penang, Malaysia**
-
--  How to reach out to me: **raxec_5107 (discord)**
+Just another typical Malaysian kid who is working in **deep learning/ astronomy and astrophysics** projects
   
 <p align="left">
 </p>

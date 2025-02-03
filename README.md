@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dun Li</h1>
 
-- 🌠 A **high school student** who is interested in **Deep Learning/ Astrophysics / Computational Physics / Competitive Programming**
+-  A **high school student** who is interested in **deep learning/ astronomy and astrophysics**
 
-- 📍 Based in **Georgetown, Penang, Malaysia**
+-  Based in **Georgetown, Penang, Malaysia**
 
-- 🌱 I’m currently learning **how to synthesize and optimize large datasets for training Deep learning models**
-
-- ⚡ Fun fact **I "drink" ramen noodles with paper straw :))**
-
-- 📫 How to reach out to me: **raxec_5107 (discord)**
+-  How to reach out to me: **raxec_5107 (discord)**
   
 <p align="left">
 </p>
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ehdunhackme&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 48%;" />

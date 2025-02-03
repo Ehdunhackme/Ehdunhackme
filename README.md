@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dun Li</h1>
 
-Just another typical Malaysian kid who is working in **deep learning, astronomy and astrophysics** projects
+Just another typical Malaysian kid who is working in **deep learning, astronomy and physics** projects
   
 <p align="left">
 </p>

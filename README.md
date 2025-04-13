@@ -2,7 +2,7 @@
 
 <samp>
   
-18yr high school student, based in Penang, Malaysia. 
+18yr college student, based in Penang, Malaysia. 
 
 Independent student researcher, and developer.  
 Currently working on small bodies research (e.g. comets & asteroid).  

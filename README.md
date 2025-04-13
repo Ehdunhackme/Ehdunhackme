@@ -1,6 +1,9 @@
-<h1 align="left">Hi 👋, I'm Dun Li</h1>
+<!-- markwindsorr/README.md -->
 
-Just another typical Malaysian kid who is working on **deep learning, astronomy and physics** projects
+<samp>
   
-<p align="left">
-</p>
+Based in Penang, Malaysia.
+Game player, student researcher, and developer.  
+Currently working on small bodies research.
+
+</samp>

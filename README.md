@@ -5,7 +5,7 @@
 18yr college student, based in Penang, Malaysia. 
 
 Independent student researcher, and developer.  
-Currently working on small bodies research (e.g. comets & asteroid).  
+Currently working on small bodies research (e.g. comet & asteroid).  
 
 Also working as Software Eng / ML & AI Research Intern at [StarFetchX](https://www.starfetchx.com).
 
